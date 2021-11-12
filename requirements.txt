@@ -1,3 +1,2 @@
-git+https://github.com/matiascodesal/git-for-pip-example.git@v1.0.0
 git+https://github.com/samuelcolvin/pydantic.git@v0.29
-gitpython==3.1.18
+
